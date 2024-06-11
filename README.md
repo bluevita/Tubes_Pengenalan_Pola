@@ -19,4 +19,5 @@ Abdul Jabbar Robbani
 Fifi Alfiaturrohmah
 - Mengumpulkan data dan mengecek valid data tersebut
 - Melakukan pengerjaan Program
+
 Evaluasi model dilakukan bersama-sama
