@@ -7,12 +7,14 @@ Project ini bertujuan untuk menganalisis penyakit jantung menggunakan algoritma 
 
 # Anggota Tim
 Abdul Jabbar Robbani (21102310)
+
 Fifi Alfiaturrohmah (21102097)
 
 # Kontribusi Anggota
 Abdul Jabbar Robbani
 - Penentuan ciri dan algoritma yang digunakan
 - Melakukan pengerjaan Program
+
 Fifi Alfiaturrohmah
 - Mengumpulkan data dan mengecek valid data tersebut
 - Melakukan pengerjaan Program
